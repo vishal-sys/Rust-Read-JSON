@@ -24,7 +24,7 @@ fn main(){
     r#"
 {
   "article": "how to work with json in Rust",
-  "author": "Vishal Saroj",
+  "author": "Vishal M Saroj",
   "paragraph": [
     {
       "name": "starting sentences"
