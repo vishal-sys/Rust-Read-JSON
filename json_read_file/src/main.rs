@@ -27,13 +27,13 @@ fn main(){
   "author": "Vishal M Saroj",
   "paragraph": [
     {
-      "name": "starting sentences"
+      "name": "Navbar of the paragraph"
     },
     {
-      "name": "body of the paragraph"
+      "name": "Main content  of the paragraph"
     },
     {
-      "name": "end of the paragraph"
+      "name": "Footer of the paragraph"
     }
   ]
 }
