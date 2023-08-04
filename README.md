@@ -1,0 +1,2 @@
+# Rust-Read-JSON
+This code demonstrates how to use the serde crate to parse and deserialize JSON data into Rust structs. It defines two structs (Paragraph and Article) that match the structure of the JSON data. The read_json_typed function handles the deserialization process, and the main function demonstrates how to use this function to extract and print specific values from the parsed JSON data.
