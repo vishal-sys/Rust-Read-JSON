@@ -27,13 +27,13 @@ fn main(){
   "author": "Vishal M Saroj",
   "paragraph": [
     {
-      "name": "Navbar of the paragraph"
+      "name": "Navbar of the Paragraph"
     },
     {
-      "name": "Main content  of the paragraph"
+      "name": "Main content  of the Paragraph"
     },
     {
-      "name": "Footer of the paragraph"
+      "name": "Footer of the Paragraph"
     }
   ]
 }
